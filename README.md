@@ -93,7 +93,7 @@ To build the tool:
    this build mode is not intended for obtaining trusted performance evaluation results,
    but only for the purpose of finding bugs in the code
 
-Then you can run `./pfe` to read a help message on using the tool.
+Then you can run `./pef` to read a help message on using the tool.
 
 The reference implementation also comes with an auxiliary
 [script](scripts/avg_bw_every_n_tasks.py) intended for producing bandwidth report from
